@@ -1,1 +1,2 @@
-# Shows how to use MVC with Angular
+# AngularForMVC
+Shows how to use MVC with Angular
